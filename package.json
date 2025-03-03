@@ -1,7 +1,7 @@
 {
   "name": "track-backend",
   "version": "1.0.0",
-  "main": "server.ts",
+  "main": "src/server.ts",
   "scripts": {
     "start": "node dist/server.js",
     "dev": "nodemon src/server.ts",
